@@ -1,0 +1,20 @@
+{
+    "name": "mais/zhibo123",
+    "description": "this is mais zhibo123 bag",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "mais8",
+            "email": "286116033@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mais\\": "src/mais"
+        }
+    }
+}
